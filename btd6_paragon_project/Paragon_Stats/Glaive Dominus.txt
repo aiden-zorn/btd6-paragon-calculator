@@ -1,0 +1,1 @@
+Main attack stats:ඞ- {statsdf['main attack damage'][degree]} damage, {statsdf['main attack damage boss'][degree]} boss damageඞ- {statsdf['main attack pierce'][degree]} pierce, {statsdf['main attack cooldown'][degree]} attack cooldown,ඞ

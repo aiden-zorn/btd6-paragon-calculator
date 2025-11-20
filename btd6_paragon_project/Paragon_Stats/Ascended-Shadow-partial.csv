@@ -1,0 +1,8 @@
+degree,main_attack_damage,main_attack_damage_boss,main_attack_bonus_damage_camo,main_attack_bonus_damage_stun,main_attack_bonus_damage_sticky,main_attack_pierce,main_attack_cooldown,main_attack_range,main_attack_projectile_count,main_attack_distraction_chance,flash_bomb_damage,flash_bomb_damage_boss,flash_bomb_bonus_damage_camo,flash_bomb_pierce,flash_bomb_cooldown,flash_bomb_projectile_count,flash_bomb_stun_duration,flash_bomb_distraction_chance,blue_shuriken_damage,blue_shuriken_damage_boss,blue_shuriken_bonus_damage_camo,blue_shuriken_pierce,blue_shuriken_projectile_count,Sticky bomb damage is currently out of date on the wikiglobal_slowdown_multiplier,global_max_HP_multiplier
+1,32.0,64.0,16.0,64.0,64.0,4.0,0.217,70,8,0.15,96.0,192.0,48.0,40.0,1.5,5,1,0.3,80.0,160.0,40.0,10.0,3,0.5,0.75
+20,39.1,96.4,19.0,76.2,76.2,6.66,0.1659,70,8,0.15,115.2,286.8,57.1,61.4,1.1466,5,1,0.3,96.2,239.2,47.6,25.7,3,0.5,0.75
+40,47.5,137.9,22.2,89.0,89.0,9.46,0.1505,70,8,0.15,136.4,404.8,66.7,73.4,1.0405,5,1,0.3,114.2,338.1,55.6,31.7,3,0.5,0.75
+60,55.9,186.8,25.4,101.8,101.8,12.26,0.1406,70,8,0.15,157.6,543.0,76.3,85.4,0.972,5,1,0.3,132.2,453.9,63.6,37.7,3,0.5,0.75
+80,64.3,243.1,28.6,114.6,114.6,15.06,0.1333,70,8,0.15,178.8,701.4,85.9,97.4,0.9211,5,1,0.3,150.2,586.8,71.6,43.7,3,0.5,0.75
+91,69.8,261.2,30.4,121.6,121.6,16.6,0.1299,70,8,0.15,191.4,747.6,91.2,104.0,0.8978,5,1,0.3,161.0,626.0,76.0,47.0,3,0.5,0.75
+100,74.0,310.5,32.0,128.0,128.0,18.0,0.1274,70,8,0.15,202.0,886.5,96.0,110.0,0.8805,5,1,0.3,170.0,742.5,80.0,50.0,3,0.5,0.75
